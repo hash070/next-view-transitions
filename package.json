@@ -1,5 +1,5 @@
 {
-  "name": "next-view-transitions",
+  "name": "@hash070/next-view-transitions",
   "version": "0.3.2",
   "type": "module",
   "description": "View Transitions API for Next.js App Router",
